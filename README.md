@@ -32,6 +32,7 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 [<img align="left" alt="JSON" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/json.png" />][github]
 
 <br />
+<br />
 
 ### Back-End Languages &amp; Services:
 
@@ -45,6 +46,7 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 [<img align="left" alt="MySQL" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 
 <br />
+<br />
 
 ### Colaboration &amp; Automation:
 
@@ -54,6 +56,7 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 [<img align="left" alt="Let's Encrypt" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/lets-encrypt.png" />][github]
 [<img align="left" alt="SERIAL" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 
+<br />
 <br />
 
 ### Operating Systems &amp; Kernals:
