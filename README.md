@@ -70,8 +70,17 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 * * *
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=devnetkc&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnetkc&hide=html&layout=compact" />
+<center>
+
+![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnetkc&show_icons=true)
+
+* * *
+
+<center>
+
+![Ryan's Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnetkc)
+
+</center>
 
 [website]: https://lrnlab.vnetkc.com
 [cfmlab]: https://cfmlrnlab.vnetkc.com
