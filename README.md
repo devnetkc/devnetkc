@@ -58,7 +58,6 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 ### Operating Systems &amp; Kernals:
 
-
 [<img align="left" alt="Windows 10" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/windows10.png" />][website]
 [<img align="left" alt="Windows Server 2016" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/windows-server.png" />][website]
 [<img align="left" alt="Windows Hyper-V Server" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/hyper-v.png" />][website]
