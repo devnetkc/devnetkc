@@ -25,24 +25,23 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 ### IDE &amp; Front-End:
 
 [<img align="left" alt="Visual Studio Code" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="WordPress" height="26px" width="26px" src="https://cdn.vnetkc.com/images/WordPress.png" />][hvacrc]
+[<img align="left" alt="WordPress" height="26px" width="26px" src="assets/imgs/WordPress.png" />][hvacrc]
 [<img align="left" alt="HTML5" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="CSS3" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
 [<img align="left" alt="Sass" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][github]
 [<img align="left" alt="JavaScript" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="JSON" height="26px" width="26px" src="https://cdn.vnetkc.com/images/json.png" />][github]
-![JSON](https://cdn.vnetkc.com/images/json.png)<!-- .element align="left" height="26px" width="26px" -->
+[<img align="left" alt="JSON" height="26px" width="26px" src="assets/imgs/json.png" />][github]
 
 <br />
 
 ### Back-End Languages &amp; Services:
 
-[<img align="left" alt="Azure" height="26px" width="26px" src="https://cdn.vnetkc.com/images/azure.png" />][github]
+[<img align="left" alt="Azure" height="26px" width="26px" src="assets/imgs/azure.png" />][github]
 [<img align="left" alt="Node.js" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
-[<img align="left" alt="PHP" height="26px" width="26px" src="https://cdn.vnetkc.com/images/php.png" />][github]
-[<img align="left" alt="Java" height="26px" width="26px" src="https://cdn.vnetkc.com/images/java.png" />][java]
-[<img align="left" alt="Microsoft IIS" height="26px" width="26px" src="https://cdn.vnetkc.com/images/microsoft-iis.png" />][java]
-[<img align="left" alt="Apache Tomcat" height="26px" width="26px" src="https://cdn.vnetkc.com/images/tomcat.png" />][java]
+[<img align="left" alt="PHP" height="26px" width="26px" src="assets/imgs/php.png" />][github]
+[<img align="left" alt="Java" height="26px" width="26px" src="assets/imgs/java.png" />][java]
+[<img align="left" alt="Microsoft IIS" height="26px" width="26px" src="assets/imgs/microsoft-iis.png" />][java]
+[<img align="left" alt="Apache Tomcat" height="26px" width="26px" src="assets/imgs/tomcat.png" />][java]
 [<img align="left" alt="SQL" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
 [<img align="left" alt="MySQL" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 
@@ -52,8 +51,8 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 [<img align="left" alt="Git" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="BASH" height="26px" width="26px" src="https://cdn.vnetkc.com/images/bash_shell.png" />][github]
-[<img align="left" alt="Let's Encrypt" height="26px" width="26px" src="https://cdn.vnetkc.com/images/lets-encrypt.png" />][github]
+[<img align="left" alt="BASH" height="26px" width="26px" src="assets/imgs/bash_shell.png" />][github]
+[<img align="left" alt="Let's Encrypt" height="26px" width="26px" src="assets/imgs/lets-encrypt.png" />][github]
 [<img align="left" alt="SERIAL" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 
 <br />
@@ -61,11 +60,11 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 ### Operating Systems &amp; Kernals:
 
 
-[<img align="left" alt="Windows 10" height="26px" width="26px" src="https://cdn.vnetkc.com/images/windows10.png" />][website]
-[<img align="left" alt="Windows Server 2016" height="26px" width="26px" src="https://cdn.vnetkc.com/images/windows-server.png" />][website]
-[<img align="left" alt="Windows Hyper-V Server" height="26px" width="26px" src="https://cdn.vnetkc.com/images/hyper-v.png" />][website]
-[<img align="left" alt="Apple Macintosh OS X" height="26px" width="26px" src="https://cdn.vnetkc.com/images/OSX.png" />][website]
-[<img align="left" alt="Ubuntu Server" height="26px" width="26px" src="https://cdn.vnetkc.com/images/ubuntu.png" />][website]
+[<img align="left" alt="Windows 10" height="26px" width="26px" src="assets/imgs/windows10.png" />][website]
+[<img align="left" alt="Windows Server 2016" height="26px" width="26px" src="assets/imgs/windows-server.png" />][website]
+[<img align="left" alt="Windows Hyper-V Server" height="26px" width="26px" src="assets/imgs/hyper-v.png" />][website]
+[<img align="left" alt="Apple Macintosh OS X" height="26px" width="26px" src="assets/imgs/OSX.png" />][website]
+[<img align="left" alt="Ubuntu Server" height="26px" width="26px" src="assets/imgs/ubuntu.png" />][website]
 
 <br />
 <br />
