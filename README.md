@@ -72,7 +72,7 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 <p align="center">
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devnetkc&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=devnetkc&show_icons=true" />
 
 </p>
 
@@ -80,7 +80,7 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 <p align="center">
 
-![Ryan's Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnetkc)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnetkc" />
 
 </p>
 
