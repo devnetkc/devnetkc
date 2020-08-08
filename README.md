@@ -5,7 +5,7 @@
 I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 - 🌱 I’m currently working on expanding my knowledge in [PHP, JS, MySQL, &amp; SASS with Bootstrap][website]!
-- 🔭 I've set ugit sp two labs for developing my skills this year.  Check them out [My Lab][website] | [Work Lab][cfmlab]
+- 🔭 I've set up two labs for developing my skills this year.  Check them out [My Lab][website] | [Work Lab][cfmlab]
 - 👯 I’m looking to collaborate with others to further expand on my own skills
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I rushed a fraternity at 26, and have a degree in Marketing &amp; Economics.  I built my first e-commerce site, however, in 1997 called The Ultimate Fashion.  With no CSS3 for flex boxing, the project utilized frames to better manage the header menu and sidebar attribute filtering.  Do you remember frames?
