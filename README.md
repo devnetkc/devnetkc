@@ -14,7 +14,7 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 [<img align="left" alt="Check out my lab on https://lrnlab.vnetkc.com to for my latest project" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="devnetkc | GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="cfmValizan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="devnetkc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ryan Valizan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -89,7 +89,7 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 [website]: https://lrnlab.vnetkc.com
 [cfmlab]: https://cfmlrnlab.vnetkc.com
-[twitter]: https://twitter.com/cfmValizan
+[twitter]: https://twitter.com/devnetkc
 [linkedin]: https://linkedin.com/in/rvalizan
 [github]: https://github.com/https://github.com/devnetkc
 [hvacrc]: https://rc.cfmdistributors.com
