@@ -2,19 +2,16 @@
 
 ## About Me:
 
-I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
+I'm a Father, Developer, NetSuite Engineer!
 
-- 🌱 I’m currently working on expanding my knowledge in [PHP, JS, MySQL, &amp; SASS with Bootstrap][website]!
-- 🔭 I've set up two labs for developing my skills this year.  Check them out [My Lab][website] | [Work Lab][cfmlab]
-- 👯 I’m looking to collaborate with others to further expand on my own skills
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I rushed a fraternity at 26, and have a degree in Marketing &amp; Economics.  I built my first e-commerce site, however, in 1997 called The Ultimate Fashion.  With no CSS3 for flex boxing, the project utilized frames to better manage the header menu and sidebar attribute filtering.  Do you remember frames?
+-   🌱 I’m currently working on expanding my knowledge in `python` and `prompting`!
+-   👯 I’m looking to collaborate with others to further expand on my own skills
+-   🥅 2024 Goals: Start a project using python
+-   ⚡ Fun fact: I rushed a fraternity at 26, and have a degree in Marketing &amp; Economics. I built my first e-commerce site, however, in 1997 called The Ultimate Fashion. With no CSS3 for flex boxing, the project utilized frames to better manage the header menu and sidebar attribute filtering. Do you remember frames?
 
 ### Connect with me:
 
-[<img align="left" alt="Check out my lab on https://lrnlab.vnetkc.com to for my latest project" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="devnetkc | GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="devnetkc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ryan Valizan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -24,12 +21,13 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 ### IDE &amp; Front-End:
 
 [<img align="left" alt="Visual Studio Code" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="WordPress" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/WordPress.png" />][hvacrc]
+[<img align="left" alt="WordPress" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/WordPress.png" />][github]
 [<img align="left" alt="HTML5" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="CSS3" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
 [<img align="left" alt="Sass" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][github]
 [<img align="left" alt="JavaScript" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="JSON" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/json.png" />][github]
+[<img align="left" alt="Backbone JS" height="26px" width="26px" src="http://gregfranko.com/images/backbone.png" />][backbone]
 
 <br />
 <br />
@@ -61,16 +59,16 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 ### Operating Systems &amp; Kernals:
 
-[<img align="left" alt="Windows 10" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/windows10.png" />][website]
-[<img align="left" alt="Windows Server 2016" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/windows-server.png" />][website]
-[<img align="left" alt="Windows Hyper-V Server" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/hyper-v.png" />][website]
-[<img align="left" alt="Apple Macintosh OS X" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/OSX.png" />][website]
-[<img align="left" alt="Ubuntu Server" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/ubuntu.png" />][website]
+[<img align="left" alt="Windows 10" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/windows10.png" />][win10]
+[<img align="left" alt="Windows Server 2016" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/windows-server.png" />][ws16]
+[<img align="left" alt="Windows Hyper-V Server" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/hyper-v.png" />][ws16]
+[<img align="left" alt="Apple Macintosh OS X" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/OSX.png" />][apple]
+[<img align="left" alt="Ubuntu Server" height="26px" width="26px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/ubuntu.png" />][ubuntu]
 
 <br />
 <br />
 
-* * *
+---
 
 <p align="center">
 
@@ -78,7 +76,7 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 </p>
 
-* * *
+---
 
 <p align="center">
 
@@ -86,11 +84,11 @@ I'm a Husband, Father, Developer, Digital Marketer, and Project Manager!
 
 </p>
 
-
-[website]: https://lrnlab.vnetkc.com
-[cfmlab]: https://cfmlrnlab.vnetkc.com
-[twitter]: https://twitter.com/devnetkc
+[ubuntu]: https://ubuntu.com/
+[ws16]: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2016
+[win10]: https://www.microsoft.com/en-us/software-download/windows10%20
+[apple]: https://www.apple.com/
 [linkedin]: https://linkedin.com/in/rvalizan
 [github]: https://github.com/https://github.com/devnetkc
-[hvacrc]: https://rc.cfmdistributors.com
 [java]: https://www.cfmdistributors.com
+[backbone]: https://github.com/jashkenas/backbone/blob/master/docs/images/backbone.png
