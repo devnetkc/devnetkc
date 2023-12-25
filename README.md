@@ -1,23 +1,25 @@
 # Hi there, I'm Ryan - aka [devnetkc][github] 👋
 
+## Elevator Pitch:
+
+Coding the future, one line at a time - I'm a NetSuite Engineer keen on integrating Python with enterprise solutions, focusing on AI and advanced prompting techniques. Father, Developer, and perpetual learner.
+
 ## About Me:
 
-I'm a Father, Developer, NetSuite Engineer!
-
--   🌱 I’m currently working on expanding my knowledge in `python` and `prompting`!
--   👯 I’m looking to collaborate with others to further expand on my own skills
--   🥅 2024 Goals: Start a project using python
--   ⚡ Fun fact: I rushed a fraternity at 26, and have a degree in Marketing &amp; Economics. I built my first e-commerce site, however, in 1997 called The Ultimate Fashion. With no CSS3 for flex boxing, the project utilized frames to better manage the header menu and sidebar attribute filtering. Do you remember frames?
+-   🚀 Specializing in NetSuite, with a current deep dive into Python for AI and enterprise applications.
+-   🤝 I contributed to [clean-jsdoc-theme](https://github.com/devnetkc/clean-jsdoc-theme) in 2022 and continually develop my own project, [NetSuite Custom Modules Template](https://github.com/devnetkc/NetSuite-CustomModules-Template).
+-   🎯 2024 Goals: To pioneer innovative enterprise solutions using Python, pushing beyond traditional JavaScript backends.
+-   ⚡ Fun fact: Once rushed a fraternity at 26 and built my first e-commerce site in '97—when frames ruled the web!
 
 ### Connect with me:
 
-[<img align="left" alt="devnetkc | GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Ryan Valizan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ryan Valizan | NetSuite Professionals" width="22px" src="https://raw.githubusercontent.com/devnetkc/devnetkc/master/assets/imgs/NetSuite-Professionals.png" />][nspro]
+[![GitHub][github-shield]][github]
+[![LinkedIn][linkedin-shield]][linkedin]
+[![NetSuite Professionals][netsuite-professionals-shield]][nspro]
 
 <br />
 
-## Languages and Tools:
+## I'm proficient in:
 
 ### IDE &amp; Front-End:
 
@@ -74,6 +76,19 @@ I'm a Father, Developer, NetSuite Engineer!
 
 ---
 
+<br />
+<br />
+
+## Highlighted Projects:
+
+-   [Clean JSDoc Theme](https://github.com/devnetkc/clean-jsdoc-theme) - A theme I contributed to, enhancing documentation aesthetics and usability.
+-   [NetSuite Custom Modules Template](https://github.com/devnetkc/NetSuite-CustomModules-Template) - My own project, providing a robust template for NetSuite development.
+
+<br />
+<br />
+
+---
+
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=devnetkc&show_icons=true" />
@@ -116,3 +131,6 @@ I'm a Father, Developer, NetSuite Engineer!
 [json]: https://www.json.org/json-en.html
 [jquery]: https://jquery.com/
 [tomcat]: https://tomcat.apache.org/
+[github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat-square&logo=linkedin&colorB=555
+[netsuite-professionals-shield]: https://img.shields.io/badge/-NetSuite_Professionals-lightgrey.svg?style=flat-square&logo=netsuite&colorB=555
